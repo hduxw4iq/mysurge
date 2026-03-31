@@ -1,0 +1,5 @@
+#!name=Always Real IP Override
+#!desc=Override always-real-ip
+
+[General]
+always-real-ip = *.i.w4iq.com, mysql-jp.ch402o2qaouf.ap-northeast-1.rds.amazonaws.com
